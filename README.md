@@ -1,7 +1,7 @@
-# cs100f2018-lab6-solution
+# cs100f2018-lab6-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 6 in Computer Science 100.
+repository contains the starter files for Laboratory 6 in Computer Science 100.
 
 ## Introduction
 

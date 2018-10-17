@@ -129,7 +129,6 @@ Session.vim
 # Java #
 ######################
 *.ear
-*.jar
 *.war
 *.ant_targets
 
