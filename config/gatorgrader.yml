@@ -1,0 +1,26 @@
+---
+name: cmpsc-100-fall-2018-lab5
+break: true
+indent: 4
+---
+
+src/main:
+    java:
+        labsix/MusicGenerator.java:
+            --single 8 --language Java
+            --multi 2 --language Java
+            --fragment "println(" --count 5
+            --fragment "new Date()" --count 1
+            --fragment "String" --count 5
+            --fragment "Random" --count 3
+            --fragment "Player" --count 2
+            --fragment ".play" --count 3
+            --fragment "Pattern" --count 4
+            --fragment "else if" --count 1
+
+writing/reflection.md:
+    --paragraphs 3 --exact
+    --words 150
+--commits 5
+
+--command "gradle -q --console plain run" --executes
